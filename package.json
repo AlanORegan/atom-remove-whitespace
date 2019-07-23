@@ -11,7 +11,7 @@
       "remove-whitespace:replace"
     ]
   },
-  "repository": "https://github.com/nkmk/atom-remove-whitespace",
+  "repository": "https://github.com/AlanORegan/atom-remove-whitespace",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
